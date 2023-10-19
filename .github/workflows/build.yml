@@ -119,7 +119,8 @@ jobs:
         name: aseprite
 
         path: |
+        
 
-          D:/a/aseprite/aseprite/build/bin/data
+          D:\文档\GitHub\aseprite\build\bin
 
-          D:/a/aseprite/aseprite/build/bin/aseprite.exe
+          D:\文档\GitHub\aseprite\build\bin/aseprite.exe
